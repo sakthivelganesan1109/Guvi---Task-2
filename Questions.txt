@@ -1,0 +1,31 @@
+Question - 1
+
+1. Create a class Person with properties(name and age) with following features.
+	a. Default age of person should be 18;
+	b. A person object can be initialized with name and age;
+	c. Method to display name and age of person;
+
+Question - 2
+
+2. Create class Product (pid,price,quantity) with parameterized constructor. Create a main function in different class (say productMain) and perform following task:
+
+ 	a. Accept 5 product information from user and store in an array; 
+
+	b. Find Pid of the product with highest price.
+	c. Create method(with array of product's object as argument) in ProductMain class to calculate and return the total amount spent on all products.
+	   (amount spent on single product = price of product * Quantity of product)
+
+Question  - 3
+
+3. Create Class Account with data member as Balance. Create two constructors (no argument and with argument) and perform following task.
+
+	a. method to deposit the amount to the account.
+	b. method to withdraw the amount from the account.
+	c. method to display the balance.
+
+Question - 4
+
+4. Define a base class Person with attributed name and age.
+
+	a. Create a subclass Employee that inherits from Person and adds attributed like employeeID and salary.
+	b. Use the super keyword to initialize the Person attributes in the Employee constructor.
