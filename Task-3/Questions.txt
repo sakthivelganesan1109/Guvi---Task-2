@@ -1,0 +1,18 @@
+Question - 1
+
+1. Task Description - Management System
+
+a)	Design a Java program that users OOP principles to model the Book. 
+   	Create two Classes: Book and Library.
+	The Book class should have attributes such as bookID,title,author and isAvailable.
+	The Library class Should include an array to store books objects.
+
+b)	Provide methods to add books, remove book search books (using id) and display books.
+	Write a Java Program that demonstrates the use of these classes and methods by allowing tge user to interact wth the library System.
+
+2. CREATE INTERFACE TAXABLE WITH MEMBERS SALES TAX=7%; AND INCOME TAX = 10.50%. CREATE ABSTRACT  METHOD CALC TAX().
+
+a) 	Create Class Employee (empID,name, Salary) and implements Taxable to calculate income Tax yearly salary.
+b)	Create Class Product(pid, price, Quantity) and implement Taxable ro calculate sales Tax on unit price of product.
+c) 	Create Class for main method(Say Driver Main), accept employee information and a product information from user and print income Tax and sales tax respectively.
+
